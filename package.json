@@ -26,12 +26,14 @@
     "constructs": "^10.3.0",
     "esbuild": "^0.25.1",
     "npm-run-all2": "^6.1.2",
+    "rollup": "^4.37.0",
     "tsx": "^4.7.2",
     "typescript": "^5.4.5",
     "vite": "^6.2.3",
     "vue-tsc": "^2.0.11"
   },
   "optionalDependencies": {
-    "@parcel/watcher": "^2.5.1"
+    "@parcel/watcher": "^2.5.1",
+    "@rollup/rollup-linux-x64-gnu": "^4.37.0"
   }
 }
